@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kadiiiix
-- 👀 I’m interested in learning and internship opportunities
-- 🌱 I’m currently learning Python and Linux for Network Programming purposes
+- 👀 I’m interested in learning opportunities
+- 🌱 I’m currently learning PHP Laravel
 - 📫 Reach me at kadicamina01@gmail.com
 
 <!---
