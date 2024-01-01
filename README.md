@@ -1,25 +1,14 @@
 # Hi, I'm Kadiiiix🌼
-
-This GitHub profile sums up my projects so far 🌞
-
-## 🌱 I’m currently learning
-
- -PHP Laravel
-
-## 🚀 Working on
-
-[Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
-
-## 👀 I’m interested in ##
-
+- 👀 Interested in  
 ☕ 🎶 📖 🍕
-
-## 📫 How to reach me
-
-[kadicamina01@gmail.com](mailto:kadicamina01@gmail.com)  
- 
+- 🌱 Currently learning
+  PHP Laravel  
+- 🚀 Working on  
+[Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
+- 📫 Reach me at  
+[kadicamina01@gmail.com](mailto:kadicamina01@gmail.com)    
 [LinkedIn](https://www.linkedin.com/in/amina-kadi%C4%87-283063267/)
- 
+
 
 <!---
 Kadiiiix/Kadiiiix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
