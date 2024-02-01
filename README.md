@@ -2,9 +2,11 @@
 - 👀 Interested in  
 ☕ 🎶 📖 🍕
 - 🌱 Currently learning
-  PHP Laravel  
+  
+    PHP Laravel  
 - 🚀 Last Project
-[Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
+  
+  [Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
 - 📫 Reach me at  
 [kadicamina01@gmail.com](mailto:kadicamina01@gmail.com)    
 [LinkedIn](https://www.linkedin.com/in/amina-kadi%C4%87-283063267/)
