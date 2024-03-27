@@ -1,9 +1,9 @@
 # Hi, I'm Kadiiiix🌼
 - 👀 Interested in  
-☕ 🎶 📖 🍕
+☕ 🎶 📖 🎥 🍔 🍕
 - 🌱 Currently learning
   
-    PHP Laravel  
+    Python for Data Science
 - 🚀 Last Project
   
   [Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
