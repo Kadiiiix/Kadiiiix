@@ -1,14 +1,10 @@
 # Hi, I'm Kadiiiix🌼
 - 👀 Interested in  
 ☕ 🎶 📖 🎥 🍔 🍕
-
-- 🌱 Currently learning
-  
-    Python for Data Science
   
 - 🚀 Last Project
   
-  [Software Testing and Maintenance Project](https://github.com/Ilmaooo/testing-project)
+  [Auction Website Graduation Project]([https://github.com/Ilmaooo/testing-project](https://github.com/Kadiiiix/Auction-Website))
   
 - 📫 Reach me at  
 [kadicamina01@gmail.com](mailto:kadicamina01@gmail.com)    
