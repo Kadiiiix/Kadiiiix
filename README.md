@@ -8,7 +8,7 @@
   
 - 📫 Reach me at  
 [kadicamina01@gmail.com](mailto:kadicamina01@gmail.com)    
-[LinkedIn](https://www.linkedin.com/in/amina-kadi%C4%87-283063267/)
+[LinkedIn](https://www.linkedin.com/in/aminakadic/)
 
 
 <!---
